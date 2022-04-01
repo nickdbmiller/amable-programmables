@@ -1,0 +1,23 @@
+{
+  "name": "amable-programmables",
+  "version": "1.0.0",
+  "description": "A spot for algorithms I've done, neat hacks I want to try out, or anything else interesting!",
+  "main": "fizzBuzz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickdbmiller/amable-programmables.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickdbmiller/amable-programmables/issues"
+  },
+  "homepage": "https://github.com/nickdbmiller/amable-programmables#readme",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
